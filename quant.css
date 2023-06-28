@@ -1,0 +1,37 @@
+.ant-tabs-content-holder{
+  background: transparent !important;
+}
+.ant-tabs-nav {
+  background-image: linear-gradient(0deg, #111, #000);
+  border-radius: 16px 16px 0 0;
+}
+.ant-tabs-content-holder * {
+  color: #fff !important;
+}
+.ant-tabs-tab-active *{
+  font-weight: bold !important;
+}
+.dashboard-content{
+    background-image: linear-gradient(-45deg, rgba(34,193,195,1) 0%, rgba(255,255,255,1) 49%);
+    font-family: 'Inter', sans-serif;
+    
+}
+.dashboard-component{
+    background-image: ;
+    border-radius: 50px;
+    box-shadow: 0 0 50px rgba(0,0,0,.8) !important;
+    color: #fff;
+    margin:25px;
+}
+.dashboard-component-tabs{
+  background: transparent;
+  box-shadow: none !important;
+}
+
+.slice_container  svg{
+  background-color: transparent !important;
+}
+
+.nvd3 .nv-axis line {
+  stroke: #000000;
+}
